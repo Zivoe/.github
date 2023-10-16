@@ -4,15 +4,13 @@
 
 Welcome to Zivoe, an RWA decentralized credit protocol aiming to disrupt high-interest consumer lending globally.
 
-## Mission
-
-- Financially inclusive lending
-- Community-driven initiatives
-- Empower change against predatory lending
+<br />
 
 ## Documentation
 
 For more details, check out our [documentation](https://docs.zivoe.finance).
+
+<br />
 
 ## Contribute
 
