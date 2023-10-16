@@ -6,12 +6,6 @@ Welcome to Zivoe, an RWA decentralized credit protocol aiming to disrupt high-in
 
 <br />
 
-## Documentation
-
-For more details, check out our [documentation](https://docs.zivoe.finance).
-
-<br />
-
 ## Contribute
 
 Join us in creating a financially inclusive ecosystem. Your contributions are welcome!
