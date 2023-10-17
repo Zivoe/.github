@@ -1,8 +1,8 @@
 ![Web_Official_Dark](https://user-images.githubusercontent.com/26582141/201743461-87df24c4-80fd-4abe-baf8-7cf6a85e0fba.png)
 
-# Zivoe Finance
+# Zivoe
 
-Welcome to Zivoe, an RWA decentralized credit protocol aiming to disrupt high-interest consumer lending globally.
+Welcome to Zivoe, an RWA decentralized credit protocol aiming to disrupt predatory high-interest consumer lending globally.
 
 ## Mission
 
