@@ -8,5 +8,3 @@ Zivoe is a real-world asset (RWA) credit protocol that provides anyone who quali
 
 Join us in creating a financially inclusive ecosystem. Your contributions are welcome!
 
-[Join our Discord]([https://discord.com/invite/PvzASN4Cdn](https://discord.com/invite/R8u4Y95S9p))
-
